@@ -3,7 +3,7 @@
 This repository contains a static website and a GitHub Actions CI/CD pipeline to deploy it to Amazon S3.
 
 ## Website files
-- `index.html` - main static webpage.
+- `public/index.html` - main static webpage.
 
 ## CI/CD workflow
 - Workflow file: `.github/workflows/deploy-to-s3.yml`
